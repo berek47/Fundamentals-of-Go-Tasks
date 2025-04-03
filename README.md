@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Word Frequency Count and Palindrome Check (Task-2)
 
 This Go application includes two tasks:
@@ -23,6 +24,22 @@ This Go application includes two tasks:
 
 1. Go to the `task2/word_frequency` folder.
 2. Run the following command:
+=======
+# Student Grade Calculator (Task-1)
+
+This Go application allows students to enter their subject grades and calculates their average.
+
+## Features
+
+- Accepts student name and multiple subject grades
+- Validates grade inputs (0-100)
+- Calculates and displays average grade
+
+## How to Run
+
+1. Install [Go](https://golang.org/dl/)
+2. Navigate to the `Task-1` folder and run:
+>>>>>>> 6bcaf91a95b3d54fe1753f232ff03b04f4906ca7
    ```sh
    go run main.go
    ```
