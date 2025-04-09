@@ -1,0 +1,17 @@
+# Go binaries
+/bin/
+/obj/
+
+# Go module files
+/go.sum
+/go.mod
+
+# IDE/Editor specific
+.vscode/
+.idea/
+
+# Operating system files (Mac/Linux)
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
