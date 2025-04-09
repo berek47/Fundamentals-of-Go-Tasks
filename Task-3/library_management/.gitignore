@@ -1,0 +1,20 @@
+# Ignore Go binary files
+/bin
+/pkg
+
+# Ignore vendor folder (if using vendoring)
+vendor/
+
+# Ignore IDE/Editor specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore Go modules cache
+go.sum
+go.mod
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
